@@ -1,0 +1,1 @@
+A website that allows for straight-forward querying for resy.com in NYC-Manhattan area. A good use case for this is to find last minute reservation in a location, within a price range for a specific cuisine(s).
